@@ -283,7 +283,7 @@ class ShaunGonsalves:
 <div align="center">
 
 <!-- Profile views counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=ShaunGves&color=00d4ff&style=for-the-badge&label=SACTIVATIONS)
+![Profile Views](https://komarev.com/ghpvc/?username=ShaunGves&color=00d4ff&style=for-the-badge&label=ACTIVATIONS)
 
 </div>
 
