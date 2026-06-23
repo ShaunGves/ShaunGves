@@ -246,14 +246,14 @@ class ShaunGonsalves:
 <div align="center">
 
 <!-- Profile views counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=ShaunGves&color=00d4ff&style=for-the-badge&label=SUIT+ACTIVATIONS)
+![Profile Views](https://komarev.com/ghpvc/?username=ShaunGves&color=00d4ff&style=for-the-badge&label=SACTIVATIONS)
 
 </div>
 
 <div align="center">
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d1a,50:1a1a2e,100:0a0a0f&height=120&section=footer&text=⚡%20Building%20Tomorrow%20from%20Dubai&fontSize=20&fontColor=00d4ff&animation=fadeIn&fontAlignY=55&desc=&descColor=7dd3fc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d1a,50:1a1a2e,100:0a0a0f&height=120&section=footer&text=⚡%20Building%20from%20Dubai&fontSize=20&fontColor=00d4ff&animation=fadeIn&fontAlignY=55&desc=&descColor=7dd3fc" width="100%"/>
 
 </div>
 
