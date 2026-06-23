@@ -23,12 +23,12 @@ class ShaunGonsalves:
         self.alias        = "Student"
         self.location     = "Dubai, UAE 🇦🇪"
         self.university   = "BITS Pilani, Dubai Campus"
-        self.degree       = "B.E. Computer Science Engineering"
+        self.degree       = "B.E. Computer Science"
         self.status       = "Building"
         
         self.projects  = [
             "🧠 LLM & RAG Pipelines",
-            "⚛️  Quantum Machine Learning Projects",
+            "⚛️ Quantum Machine Learning Projects",
             "🔗 Web3 / Blockchain DApps",
             "🤖 AI/ML Sites at Scale"
         ]
