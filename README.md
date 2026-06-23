@@ -15,7 +15,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## `[ Profile ]`
+## `[ PROFILE ]`
 
 ```python
 class ShaunGonsalves:
@@ -43,13 +43,12 @@ class ShaunGonsalves:
 
 ---
 
-## `[ WEAPON SYSTEMS — TECH ARSENAL ]`
+## `[ SKILLS ]`
 
 <div align="center">
 
 ### ⚡ Core Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-0a0a0f?style=for-the-badge&logo=python&logoColor=00d4ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0f?style=for-the-badge&logo=javascript&logoColor=00d4ff)
 ![Solidity](https://img.shields.io/badge/Solidity-0a0a0f?style=for-the-badge&logo=solidity&logoColor=00d4ff)
 ![C](https://img.shields.io/badge/C-0a0a0f?style=for-the-badge&logo=c&logoColor=00d4ff)
 ![HTML5](https://img.shields.io/badge/HTML5-0a0a0f?style=for-the-badge&logo=html5&logoColor=00d4ff)
@@ -83,7 +82,7 @@ class ShaunGonsalves:
 
 ---
 
-## `[ ACTIVE MISSIONS — PROJECTS ]`
+## `[ NOTABLE PROJECTS ]`
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -134,8 +133,29 @@ class ShaunGonsalves:
 - 📊 Comparative benchmarking: Quanvolutional vs classical baseline models
 
 ---
+### 🔐 Prism — Privacy-First Multi-Model Orchestration
 
-## `[ SUIT STATS — GITHUB METRICS ]`
+> *"Because your secrets shouldn't leave the building just to get a smart answer."*
+
+```
+  ┌─────────────────────────────────────────────────────────────────┐
+  │  SYSTEM: Prism v1.0       STATUS: 🔄 IN DEVELOPMENT             │
+  ├─────────────────────────────────────────────────────────────────┤
+  │  Raw Sensitive Input ────► Local PII Redaction Layer            │
+  │  Redacted Payload    ────► Cloud LLM (Groq / Gemini)            │
+  │  LLM Response        ────► Local Re-injection & Restore         │
+  │  Agentic Orchestrator────► Multi-Model Routing Engine           │
+  └─────────────────────────────────────────────────────────────────┘
+```
+**Stack:** `Python` · `Groq (Llama-3)` · `Gemini 2.0 Flash` · `LangChain` · `FastAPI` · `Local-First Architecture`
+
+- 🛡️ Redacts API keys, passwords, DB connections & PII before any data leaves the machine
+- ⚡ Routes tasks intelligently across cloud frontier models for low latency & cost efficiency
+- 🏗️ Agentic orchestration layer built for real-world enterprise security & compliance constraints
+
+---
+
+## `[ STATS — GITHUB METRICS ]`
 
 <div align="center">
 
@@ -175,10 +195,11 @@ class ShaunGonsalves:
 
 | 🏆 Mission | 📍 Location | 🎖️ Result |
 |:---|:---|:---|
-| NMS Hackathon | Dubai | 🥇 7th Place |
-| JSSPS Mini Hackathon | JSS Private School | 🥇 1st Place |
+| JetBrains Hackathon-Google Bounty Challenge(Team) | Dubai | 🥇 8th Place |
+| NMS Hackathon(Solo) | Dubai | 🥇 7th Place |
+| JSSPS Mini Hackathon(Solo) | JSS Private School | 🥇 1st Place |
 | Khaleej Times Feature | Dubai Press | 📰 Featured for AI Education Leadership |
-| AI Committee President | JSS Private School | 🎓 Launched school-wide AI programs |
+| AI Committee President | JSS Private School | 🎓 Launched school-wide AI program for students&staff |
 | Microsoft Tech Club | BITS Pilani Dubai | ⚙️ Quantum Computing & Blockchain Projects |
 
 ---
@@ -198,11 +219,14 @@ class ShaunGonsalves:
 ## `[ COMMS — CONNECT WITH ME ]`
 
 <div align="center">
-
+    
+[![Email](https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=00d4ff)](mailto:shaun.gsv@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://www.linkedin.com/in/shaun-gonsalves-516429331)
 [![GitHub](https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/ShaunGves)
-[![Email](https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=00d4ff)](mailto:shaun.gsv@gmail.com)
-[![Phone](https://img.shields.io/badge/+971585804408-0a0a0f?style=for-the-badge&logo=whatsapp&logoColor=00d4ff)](tel:+971585804408)
+[![HuggingFace](https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=00d4ff)](https://huggingface.co/ShaunGves)
+[![LeetCode](https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=00d4ff)](https://leetcode.com/u/ShaunGves)
+[![AI Tinkerers](https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=00d4ff)](https://dubai.aitinkerers.org/connect/client/client_TlcJ_ILu40A)
+[![Instagram](https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=00d4ff)](https://www.instagram.com/_shaun11.7?igsh=MWN3eDhkeTJwaWpoYg==)
 
 </div>
 
