@@ -142,21 +142,29 @@ class ShaunGonsalves:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaung7000&show_icons=true&theme=tokyonight&bg_color=0a0a0f&title_color=00d4ff&icon_color=00d4ff&text_color=7dd3fc&border_color=00d4ff&border_radius=10&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaung7000&layout=compact&theme=tokyonight&bg_color=0a0a0f&title_color=00d4ff&text_color=7dd3fc&border_color=00d4ff&border_radius=10&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shaung7000&theme=tokyonight&background=0a0a0f&ring=00d4ff&fire=f59e0b&currStreakLabel=00d4ff&sideLabels=7dd3fc&currStreakNum=ffffff&sideNums=7dd3fc&border=00d4ff&border_radius=10" />
+<!-- Stats + Top Langs side by side — hosted on anuraghazra's stable instance -->
+<a href="https://github.com/shaung7000">
+  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=shaung7000&show_icons=true&theme=tokyonight&bg_color=0a0a0f&title_color=00d4ff&icon_color=00d4ff&text_color=7dd3fc&border_color=00d4ff&border_radius=10&include_all_commits=true&count_private=true&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shaung7000&layout=compact&theme=tokyonight&bg_color=0a0a0f&title_color=00d4ff&text_color=7dd3fc&border_color=00d4ff&border_radius=10&langs_count=8&hide_border=false" />
+</a>
 
 </div>
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shaung7000&bg_color=0a0a0f&color=00d4ff&line=00d4ff&point=f59e0b&area=true&area_color=1a1a2e&border_color=00d4ff&hide_border=false)](https://github.com/shaung7000)
+<!-- Streak stats — using git.io/streak-stats which is the most stable mirror -->
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=shaung7000&theme=tokyonight&background=0a0a0f&ring=00d4ff&fire=f59e0b&currStreakLabel=00d4ff&sideLabels=7dd3fc&currStreakNum=ffffff&sideNums=7dd3fc&border=00d4ff&border_radius=10&hide_border=false" />
+</a>
+
+</div>
+
+<div align="center">
+
+<!-- Activity graph — using githubcharts.com as stable fallback -->
+<a href="https://github.com/shaung7000">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaung7000&bg_color=0a0a0f&color=00d4ff&line=00d4ff&point=f59e0b&area=true&area_color=1a1a2e&border_color=00d4ff&custom_title=Shaun's%20Contribution%20Graph&hide_border=false&radius=10" />
+</a>
 
 </div>
 
