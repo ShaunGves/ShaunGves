@@ -223,10 +223,10 @@ class ShaunGonsalves:
 [![Email](https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=00d4ff)](mailto:shaun.gsv@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://www.linkedin.com/in/shaun-gonsalves-516429331)
 [![GitHub](https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/ShaunGves)
-[![HuggingFace](https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=00d4ff)](https://huggingface.co/ShaunGves)
-[![LeetCode](https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=00d4ff)](https://leetcode.com/u/ShaunGves)
-[![AI Tinkerers](https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=00d4ff)](https://dubai.aitinkerers.org/connect/client/client_TlcJ_ILu40A)
-[![Instagram](https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=00d4ff)](https://www.instagram.com/_shaun11.7?igsh=MWN3eDhkeTJwaWpoYg==)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-0a0a0f?style=for-the-badge&logo=gmail&logoColor=00d4ff)](https://huggingface.co/ShaunGves)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0a0a0f?style=for-the-badge&logo=gmail&logoColor=00d4ff)](https://leetcode.com/u/ShaunGves)
+[![AI Tinkerers](https://img.shields.io/badge/AI-Tinkers-0a0a0f?style=for-the-badge&logo=gmail&logoColor=00d4ff)](https://dubai.aitinkerers.org/connect/client/client_TlcJ_ILu40A)
+[![Instagram](https://img.shields.io/badge/Instagram-0a0a0f?style=for-the-badge&logo=gmail&logoColor=00d4ff)](https://www.instagram.com/_shaun11.7?igsh=MWN3eDhkeTJwaWpoYg==)
 
 </div>
 
