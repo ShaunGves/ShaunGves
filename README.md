@@ -154,7 +154,7 @@ class ShaunGonsalves:
 
 <!-- Streak stats — using git.io/streak-stats which is the most stable mirror -->
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=shaung7000&theme=tokyonight&background=0a0a0f&ring=00d4ff&fire=f59e0b&currStreakLabel=00d4ff&sideLabels=7dd3fc&currStreakNum=ffffff&sideNums=7dd3fc&border=00d4ff&border_radius=10&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=ShaunGves&theme=tokyonight&background=0a0a0f&ring=00d4ff&fire=f59e0b&currStreakLabel=00d4ff&sideLabels=7dd3fc&currStreakNum=ffffff&sideNums=7dd3fc&border=00d4ff&border_radius=10&hide_border=false" />
 </a>
 
 </div>
@@ -162,8 +162,8 @@ class ShaunGonsalves:
 <div align="center">
 
 <!-- Activity graph — using githubcharts.com as stable fallback -->
-<a href="https://github.com/shaung7000">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaung7000&bg_color=0a0a0f&color=00d4ff&line=00d4ff&point=f59e0b&area=true&area_color=1a1a2e&border_color=00d4ff&custom_title=Shaun's%20Contribution%20Graph&hide_border=false&radius=10" />
+<a href="https://github.com/ShaunGves">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShaunGves&bg_color=0a0a0f&color=00d4ff&line=00d4ff&point=f59e0b&area=true&area_color=1a1a2e&border_color=00d4ff&custom_title=Shaun's%20Contribution%20Graph&hide_border=false&radius=10" />
 </a>
 
 </div>
@@ -202,9 +202,9 @@ class ShaunGonsalves:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://linkedin.com/in/shaung7000)
-[![GitHub](https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/shaung7000)
-[![Email](https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=00d4ff)](mailto:shaung7000@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://www.linkedin.com/in/shaun-gonsalves-516429331)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/ShaunGves)
+[![Email](https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=00d4ff)](mailto:shaun.gsv@gmail.com)
 [![Phone](https://img.shields.io/badge/+971585804408-0a0a0f?style=for-the-badge&logo=whatsapp&logoColor=00d4ff)](tel:+971585804408)
 
 </div>
@@ -225,7 +225,7 @@ class ShaunGonsalves:
 <div align="center">
 
 <!-- Profile views counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=shaung7000&color=00d4ff&style=for-the-badge&label=SUIT+ACTIVATIONS)
+![Profile Views](https://komarev.com/ghpvc/?username=ShaunGves&color=00d4ff&style=for-the-badge&label=SUIT+ACTIVATIONS)
 
 </div>
 
@@ -236,13 +236,4 @@ class ShaunGonsalves:
 
 </div>
 
-<!-- 
-  ──────────────────────────────────────────────────────────────
-  NOTE FOR SETUP:
-  Replace "shaung7000" with your actual GitHub username everywhere.
-  Also update LinkedIn URL to your profile.
-  
-  For the snake animation to work, enable it via:
-  Settings → Actions → Allow all actions → and run the snake workflow.
-  ──────────────────────────────────────────────────────────────
--->
+
