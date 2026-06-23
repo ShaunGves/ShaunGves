@@ -34,7 +34,7 @@ class ShaunGonsalves:
         ]
     
     def greet(self):
-        return "Let's build"
+        return "Let's Connect & Build!"
 ```
 
 <div align="center">
