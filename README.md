@@ -143,9 +143,9 @@ class ShaunGonsalves:
 <div align="center">
 
 <!-- Stats + Top Langs side by side — hosted on anuraghazra's stable instance -->
-<a href="https://github.com/shaung7000">
-  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=shaung7000&show_icons=true&theme=tokyonight&bg_color=0a0a0f&title_color=00d4ff&icon_color=00d4ff&text_color=7dd3fc&border_color=00d4ff&border_radius=10&include_all_commits=true&count_private=true&hide_border=false" />
-  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shaung7000&layout=compact&theme=tokyonight&bg_color=0a0a0f&title_color=00d4ff&text_color=7dd3fc&border_color=00d4ff&border_radius=10&langs_count=8&hide_border=false" />
+<a href="https://github.com/ShaunGves">
+  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ShaunGves&show_icons=true&theme=tokyonight&bg_color=0a0a0f&title_color=00d4ff&icon_color=00d4ff&text_color=7dd3fc&border_color=00d4ff&border_radius=10&include_all_commits=true&count_private=true&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ShaunGves&layout=compact&theme=tokyonight&bg_color=0a0a0f&title_color=00d4ff&text_color=7dd3fc&border_color=00d4ff&border_radius=10&langs_count=8&hide_border=false" />
 </a>
 
 </div>
