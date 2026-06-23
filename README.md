@@ -234,10 +234,10 @@ class ShaunGonsalves:
 |:---|:---|:---|
 | JetBrains Hackathon-Google Bounty Challenge(Team) | Dubai | 🥇 8th Place Out Of 30+ teams |
 | NMS Hackathon(Solo) | Dubai | 🥇 7th Place Out Of 100+ Students |
-| JSSPS Mini Hackathon(Solo) | JSS Private School | 🥇 1st Place Out of 15+ Students |
+| JSSPS Mini Hackathon(Solo) | JSS Private School , Dubai | 🥇 1st Place Out of 15+ Students |
 | Khaleej Times Feature | Dubai | 📰 Featured for AI Education Leadership |
-| AI Committee President | JSS Private School | 🎓 Launched school-wide AI program for students&staff |
-| Microsoft Tech Club | BITS Pilani Dubai | ⚙️ Quantum Computing & Blockchain Projects |
+| AI Committee President | JSS Private School , Dubai | 🎓 Launched school-wide AI program for students&staff |
+| Microsoft Tech Club | BITS Pilani , Dubai | ⚙️ Quantum Computing & Blockchain Projects |
 
 ---
 
