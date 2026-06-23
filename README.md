@@ -15,29 +15,26 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## `[ SUIT DIAGNOSTICS — ONLINE ]`
+## `[ Profile ]`
 
 ```python
 class ShaunGonsalves:
     def __init__(self):
-        self.alias        = "The Architect"
+        self.alias        = "Student"
         self.location     = "Dubai, UAE 🇦🇪"
         self.university   = "BITS Pilani, Dubai Campus"
         self.degree       = "B.E. Computer Science Engineering"
-        self.status       = "Building things that shouldn't exist yet"
+        self.status       = "Building"
         
-        self.specialties  = [
-            "🧠 LLM Engineering & RAG Pipelines",
-            "⚛️  Quantum Machine Learning",
+        self.projects  = [
+            "🧠 LLM & RAG Pipelines",
+            "⚛️  Quantum Machine Learning Projects",
             "🔗 Web3 / Blockchain DApps",
-            "🤖 AI/ML Systems at Scale"
+            "🤖 AI/ML Sites at Scale"
         ]
-        
-        self.current_mission = "Merging quantum physics with deep learning"
-        self.arc_reactor     = "Powered by curiosity ⚡"
     
     def greet(self):
-        return "Welcome to my lab. Let's build the future."
+        return "Let's build"
 ```
 
 <div align="center">
