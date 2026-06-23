@@ -80,6 +80,43 @@ class ShaunGonsalves:
 
 </div>
 
+## `[ FIELD EXPERIENCE — DEPLOYMENT LOG ]`
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+### 💼 Bahwan CyberTek — Intern
+`Jun 2026 – Present` · `Dubai, UAE 🇦🇪` · `On-site`
+
+> Enterprise tech firm — gaining real-world exposure to production systems and enterprise software development.
+
+- 🔧 Working on live industry projects within a professional enterprise environment
+- 🌐 On-site experience in one of Dubai's leading IT solutions companies
+
+---
+
+### ⚙️ Microsoft Tech Club — Technical Member
+`Sep 2025 – Present` · `BITS Pilani Dubai` · `On-site`
+
+> Building at the intersection of quantum computing, blockchain, and cloud tech.
+
+- 🛠️ Providing technical support and assistance for club activities and events
+- ⚛️ Built projects on quantum machine learning and blockchain
+- ☁️ Participating in workshops across software development, AI, and cloud tools
+
+---
+
+### 🤖 JSS Private School — AI Committee President
+`Apr 2024 – Feb 2025` · `Dubai, UAE 🇦🇪` · `On-site`
+
+> Led school-wide AI initiatives — featured in **Khaleej Times** for contributions to AI education and awareness.
+
+- 📰 Featured in Khaleej Times for AI education and community outreach
+- 🎓 Led programs teaching teachers and students the fundamentals and applications of AI
+- 🏆 Organized and led hackathons to encourage hands-on learning and innovation
+- 🧑‍🏫 Conducted faculty awareness sessions to integrate AI concepts into education
+
 ---
 
 ## `[ NOTABLE PROJECTS ]`
