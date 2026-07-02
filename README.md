@@ -54,25 +54,24 @@ class ShaunGonsalves:
 ![HTML5](https://img.shields.io/badge/HTML5-0a0a0f?style=for-the-badge&logo=html5&logoColor=00d4ff)
 ![CSS3](https://img.shields.io/badge/CSS3-0a0a0f?style=for-the-badge&logo=css3&logoColor=00d4ff)
 
-### AI / LLM Engineering
+### 🤖 AI / LLM Engineering
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-0a0a0f?style=for-the-badge&logo=huggingface&logoColor=00d4ff)
 ![LangChain](https://img.shields.io/badge/LangChain-0a0a0f?style=for-the-badge&logo=chainlink&logoColor=00d4ff)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0a0f?style=for-the-badge&logo=tensorflow&logoColor=00d4ff)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0f?style=for-the-badge&logo=fastapi&logoColor=00d4ff)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-0a0a0f?style=for-the-badge&logo=openai&logoColor=00d4ff)
 
-### Quantum ML
+### ⚛️ Quantum ML
 ![PennyLane](https://img.shields.io/badge/PennyLane-0a0a0f?style=for-the-badge&logo=python&logoColor=a78bfa)
 ![Keras](https://img.shields.io/badge/Keras-0a0a0f?style=for-the-badge&logo=keras&logoColor=a78bfa)
-![QML](https://img.shields.io/badge/Quantum_ML-0a0a0f?style=for-the-badge&logo=atom&logoColor=a78bfa)
 
-### Web3 / Blockchain
+### 🔐 Web3 / Blockchain
 ![Ethereum](https://img.shields.io/badge/Ethereum-0a0a0f?style=for-the-badge&logo=ethereum&logoColor=f59e0b)
 ![MetaMask](https://img.shields.io/badge/MetaMask-0a0a0f?style=for-the-badge&logo=metamask&logoColor=f59e0b)
 ![React](https://img.shields.io/badge/React-0a0a0f?style=for-the-badge&logo=react&logoColor=f59e0b)
 ![ethers.js](https://img.shields.io/badge/ethers.js-0a0a0f?style=for-the-badge&logo=javascript&logoColor=f59e0b)
 
-### DevOps & Infra
+### 🛠️ DevOps & Infra
 ![Docker](https://img.shields.io/badge/Docker-0a0a0f?style=for-the-badge&logo=docker&logoColor=22d3ee)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0a0a0f?style=for-the-badge&logo=githubactions&logoColor=22d3ee)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0a0a0f?style=for-the-badge&logo=tailwindcss&logoColor=22d3ee)
@@ -107,7 +106,7 @@ class ShaunGonsalves:
 
 ---
 
-### JSS Private School — AI Committee President
+### ✨ JSS Private School — AI Committee President
 `Apr 2024 – Feb 2025` · `Dubai, UAE 🇦🇪` · `On-site`
 
 > Led school-wide AI initiatives — featured in **Khaleej Times** for contributions to AI education and awareness.
