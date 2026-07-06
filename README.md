@@ -205,15 +205,6 @@ class ShaunGonsalves:
 
 <div align="center">
 
-<!-- Streak stats — using git.io/streak-stats which is the most stable mirror -->
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=ShaunGves&theme=tokyonight&background=0a0a0f&ring=00d4ff&fire=f59e0b&currStreakLabel=00d4ff&sideLabels=7dd3fc&currStreakNum=ffffff&sideNums=7dd3fc&border=00d4ff&border_radius=10&hide_border=false" />
-</a>
-
-</div>
-
-<div align="center">
-
 <!-- Activity graph — using githubcharts.com as stable fallback -->
 <a href="https://github.com/ShaunGves">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShaunGves&bg_color=0a0a0f&color=00d4ff&line=00d4ff&point=f59e0b&area=true&area_color=1a1a2e&border_color=00d4ff&custom_title=Shaun's%20Contribution%20Graph&hide_border=false&radius=10" />
