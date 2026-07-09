@@ -92,6 +92,10 @@ class ShaunGonsalves:
 
 - 🔧 Working on live industry projects within a professional enterprise environment
 - 🌐 On-site experience in one of Dubai's leading IT solutions companies
+- Managed and validated service data using Microsoft Excel, ensuring accuracy across large datasets.  
+- Uploaded and reconciled service records on SAP and Oracle ERP portals, facilitating seamless data integration.  
+- Performed data quality checks and streamlined documentation processes, reducing manual errors.  
+- Gained hands-on experience with ERP systems at Bahwan CyberTek, enhancing understanding of business data workflows.
 
 ---
 
