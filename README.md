@@ -234,11 +234,13 @@ class ShaunGonsalves:
 ## `[ CERTIFICATIONS — CLEARANCE LEVEL ]`
 
 ```
-  ┌──────────────────────────────────────────────────────────────────┐
-  │ ✅  AI Foundations — IBM × ISTE              (Jan 2025)         │
-  │ ✅  Ethics in Generative AI — LinkedIn       (Jan 2025)         │
-  │ ✅  Generative AI Productivity — Microsoft   (Feb 2025)         │
-  └──────────────────────────────────────────────────────────────────┘
+  ┌──────────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │ ✅  AI Foundations — IBM × ISTE              (Jan 2025)                                             │
+  │ ✅  Ethics in Generative AI — LinkedIn       (Jan 2025)                                             │
+  │ ✅  Generative AI Productivity — Microsoft   (Feb 2025)                                             │
+  │ ✅  Orchestrate Multi-agent Workflows with Gemini Enterprise — Google Cloud       (Jul 2026)        │
+  │ ✅  Fundamentals of Quantum Algorithms — IBM   (Jul 2026)                                           │
+  └──────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
