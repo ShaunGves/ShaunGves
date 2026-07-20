@@ -86,7 +86,7 @@ class ShaunGonsalves:
 </div>
 
 ### 💼 Bahwan CyberTek — Intern
-`Jun 2026 – Present` · `Dubai, UAE 🇦🇪` · `On-site`
+`June 2026 – July 2026` · `2 Months` · `Dubai, UAE 🇦🇪` · `On-site`
 
 > Enterprise tech firm — gaining real-world exposure to production systems and enterprise software development.
 
@@ -110,8 +110,8 @@ class ShaunGonsalves:
 
 ---
 
-### ✨ JSS Private School — AI Committee President
-`April 2018 – March 2025` · `Dubai, UAE 🇦🇪` · `On-site`
+### ✨ JSS Private School — AI Committee President ( March 2024 - March 2025 )
+`April 2018 – March 2025` · `7 Years` · `Dubai, UAE 🇦🇪` · `On-site`
 
 > Led school-wide AI initiatives — featured in **Khaleej Times** for contributions to AI education and awareness.
 
