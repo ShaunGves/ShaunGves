@@ -111,7 +111,7 @@ class ShaunGonsalves:
 ---
 
 ### ✨ JSS Private School — AI Committee President
-`Apr 2024 – Feb 2025` · `Dubai, UAE 🇦🇪` · `On-site`
+`April 2018 – March 2025` · `Dubai, UAE 🇦🇪` · `On-site`
 
 > Led school-wide AI initiatives — featured in **Khaleej Times** for contributions to AI education and awareness.
 
