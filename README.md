@@ -260,7 +260,6 @@ class ShaunGonsalves:
 [![LeetCode](https://img.shields.io/badge/LeetCode-0a0a0f?style=for-the-badge&logo=leetcode&logoColor=00d4ff)](https://leetcode.com/u/ShaunGves)
 [![AITinkerers](https://img.shields.io/badge/AITinkerers-0a0a0f?style=for-the-badge&logo=meetup&logoColor=00d4ff)](https://dubai.aitinkerers.org/connect/client/client_TlcJ_ILu40A)
 [![Instagram](https://img.shields.io/badge/Instagram-0a0a0f?style=for-the-badge&logo=instagram&logoColor=00d4ff)](https://www.instagram.com/_shaun11.7?igsh=MWN3eDhkeTJwaWpoYg==)
-[![Credly](https://img.shields.io/badge/Credly-0a0a0f?style=for-the-badge&logo=credly&logoColor=00d4ff)](https://www.credly.com/users/shaun-gonsalves.4768369f)
 
 </div>
 
