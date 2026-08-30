@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Arc Reactor Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,50:1a1a2e,100:0d0d1a&height=300&section=header&text=SHAUN%20GONSALVES&fontSize=52&fontColor=00d4ff&animation=fadeIn&fontAlignY=35&desc=⚡%20Computer%20Science%20Student%20•%20AI/ML%20Enthusiast&descAignY=60&descSize=18&descColor=7dd3fc&stroke=00d4ff&strokewidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,50:1a1a2e,100:0d0d1a&height=300&section=header&text=SHAUN%20GONSALVES&fontSize=52&fontColor=00d4ff&animation=fadeIn&fontAlignY=35&desc=⚡%20Computer%20Science%20Student%20•%20AI/ML%20Enthusiast&descAlignY=60&descSize=18&descColor=7dd3fc&stroke=00d4ff&strokewidth=2" width="100%"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=60&lines=Initializing...;CS+Engineering+%40+BITS+Dubai;Quantum+ML+%7C+LLM+%7C+Web3+DApps" alt="Typing SVG" />
