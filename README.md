@@ -85,7 +85,7 @@ class ShaunGonsalves:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-### 💼 Bahwan CyberTek — Intern
+### 💼 Bahwan CyberTek — IT Intern
 `June 2026 – July 2026` · `2 Months` · `Dubai, UAE 🇦🇪` · `On-site`
 
 > Enterprise tech firm — gaining real-world exposure to production systems and enterprise software development.
@@ -96,6 +96,19 @@ class ShaunGonsalves:
 - Uploaded and reconciled service records on SAP and Oracle ERP portals, facilitating seamless data integration.  
 - Performed data quality checks and streamlined documentation processes, reducing manual errors.  
 - Gained hands-on experience with ERP systems at Bahwan CyberTek, enhancing understanding of business data workflows.
+  
+---
+
+🤖 FlyRank AI — Machine Learning Engineering Intern
+`July 2026 – August 2026` · `2 Months` · `Dubai, UAE 🇦🇪` · `Remote`
+
+> AI Search & Organic Growth Platform — developing end-to-end ML pipelines and large-scale data workflows to optimize content-refresh algorithms and SEO analytics.
+
+-Built and executed end-to-end ML pipelines (Python, pandas, scikit-learn) on real search data, transforming raw datasets into engineered features and training models to predict content-refresh needs, reducing reliance on manual heuristic rules.
+-Applied AI/ML techniques to identify inefficiencies between hand-written baseline rules and learned models, benchmarking performance using Precision@K metrics and demonstrating measurable accuracy improvements over manual scoring methods.
+-Worked with large-scale, real-world datasets (~79M rows) using DuckDB for SQL-based aggregation and Hugging Face Hub for secure data access, ensuring proper authentication and data integrity across the pipeline.
+-Managed version-controlled ML projects via Git/GitHub with CI/CD automation (GitHub Actions), implementing secure credential handling and reproducible workflows within a live, industry-style development environment.
+-Gained hands-on, project-based experience at FlyRank AI, applying machine learning to solve real SEO/content analytics problems and deepening understanding of production-grade ML engineering workflows.
 
 ---
 
