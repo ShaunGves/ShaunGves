@@ -100,6 +100,7 @@ class ShaunGonsalves:
 ---
 
 🤖 FlyRank AI — Machine Learning Engineering Intern
+
 `July 2026 – August 2026` · `2 Months` · `Dubai, UAE 🇦🇪` · `Remote`
 
 > AI Search & Organic Growth Platform — developing end-to-end ML pipelines and large-scale data workflows to optimize content-refresh algorithms and SEO analytics.
