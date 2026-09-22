@@ -105,11 +105,11 @@ class ShaunGonsalves:
 
 > AI Search & Organic Growth Platform — developing end-to-end ML pipelines and large-scale data workflows to optimize content-refresh algorithms and SEO analytics.
 
--Built and executed end-to-end ML pipelines (Python, pandas, scikit-learn) on real search data, transforming raw datasets into engineered features and training models to predict content-refresh needs, reducing reliance on manual heuristic rules.
--Applied AI/ML techniques to identify inefficiencies between hand-written baseline rules and learned models, benchmarking performance using Precision@K metrics and demonstrating measurable accuracy improvements over manual scoring methods.
--Worked with large-scale, real-world datasets (~79M rows) using DuckDB for SQL-based aggregation and Hugging Face Hub for secure data access, ensuring proper authentication and data integrity across the pipeline.
--Managed version-controlled ML projects via Git/GitHub with CI/CD automation (GitHub Actions), implementing secure credential handling and reproducible workflows within a live, industry-style development environment.
--Gained hands-on, project-based experience at FlyRank AI, applying machine learning to solve real SEO/content analytics problems and deepening understanding of production-grade ML engineering workflows.
+- Built and executed end-to-end ML pipelines (Python, pandas, scikit-learn) on real search data, transforming raw datasets into engineered features and training models to predict content-refresh needs, reducing reliance on manual heuristic rules.
+- Applied AI/ML techniques to identify inefficiencies between hand-written baseline rules and learned models, benchmarking performance using Precision@K metrics and demonstrating measurable accuracy improvements over manual scoring methods.
+- Worked with large-scale, real-world datasets (~79M rows) using DuckDB for SQL-based aggregation and Hugging Face Hub for secure data access, ensuring proper authentication and data integrity across the pipeline.
+- Managed version-controlled ML projects via Git/GitHub with CI/CD automation (GitHub Actions), implementing secure credential handling and reproducible workflows within a live, industry-style development environment.
+- Gained hands-on, project-based experience at FlyRank AI, applying machine learning to solve real SEO/content analytics problems and deepening understanding of production-grade ML engineering workflows.
 
 ---
 
