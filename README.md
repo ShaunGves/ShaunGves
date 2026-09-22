@@ -113,7 +113,7 @@ class ShaunGonsalves:
 
 ---
 
-### ⚙️ Microsoft Tech Club — Technical Member
+### ⚙️ Microsoft Tech Club — Technical Member & Research Executive
 `Sep 2025 – Present` · `BITS Pilani Dubai` · `On-site`
 
 > Building at the intersection of quantum computing, blockchain, and cloud tech.
