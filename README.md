@@ -187,26 +187,7 @@ class ShaunGonsalves:
 - 📊 Comparative benchmarking: Quanvolutional vs classical baseline models
 
 ---
-### 🔐 Prism — Privacy-First Multi-Model Orchestration
-
-> *"Because your secrets shouldn't leave the building just to get a smart answer."*
-
-```
-  ┌─────────────────────────────────────────────────────────────────┐
-  │  SYSTEM: Prism v1.0       STATUS: 🔄 IN DEVELOPMENT             │
-  ├─────────────────────────────────────────────────────────────────┤
-  │  Raw Sensitive Input ────► Local PII Redaction Layer            │
-  │  Redacted Payload    ────► Cloud LLM (Groq / Gemini)            │
-  │  LLM Response        ────► Local Re-injection & Restore         │
-  │  Agentic Orchestrator────► Multi-Model Routing Engine           │
-  └─────────────────────────────────────────────────────────────────┘
-```
-**Stack:** `Python` · `Groq (Llama-3)` · `Gemini 2.0 Flash` · `LangChain` · `FastAPI` · `Local-First Architecture`
-
-- 🛡️ Redacts API keys, passwords, DB connections & PII before any data leaves the machine
-- ⚡ Routes tasks intelligently across cloud frontier models for low latency & cost efficiency
-- 🏗️ Agentic orchestration layer built for real-world enterprise security & compliance constraints
-
+More Projects In Repo..
 ---
 
 ## `[ STATS — GITHUB METRICS ]`
